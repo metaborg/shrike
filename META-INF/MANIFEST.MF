@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: com.ibm.wala.shrike
 Bundle-SymbolicName: com.ibm.wala.shrike
-Bundle-Version: 1.4.1
+Bundle-Version: 1.5.0.qualifier
 Export-Package: com.ibm.wala.annotations,
  com.ibm.wala.shrike.bench,
  com.ibm.wala.shrike.copywriter,
